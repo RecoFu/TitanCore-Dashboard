@@ -1,44 +1,44 @@
 {
-  "generated_at": "2026-03-02T21:04:11.869404+08:00",
+  "generated_at": "2026-03-03T00:54:08.773004+08:00",
   "results": [
     {
       "symbol": "BTC-USDT",
       "source": "Crypto",
       "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:BTCUSDT",
-      "timestamp": "2026-03-02T21:01:45.946930+08:00",
+      "timestamp": "2026-03-03T00:51:42.482322+08:00",
       "has_signal": true,
       "daily": {
         "signals": [
-          "三役逆轉"
+          "黃金交叉",
+          "遲行線好轉"
         ],
-        "trend": "強勢下降趨勢",
-        "recommendation": "做空",
-        "price": 65957.8,
-        "tenkan_sen": 66250.04999999999,
-        "kijun_sen": 67121.15,
-        "cloud_top": 85421.6,
-        "cloud_bottom": 83591.77500000001,
-        "senkou_span_a": 83591.77500000001,
-        "senkou_span_b": 85421.6
+        "trend": "趨勢不明確",
+        "recommendation": "做多",
+        "price": 69713.4,
+        "tenkan_sen": 66300.1,
+        "kijun_sen": 66144.0,
+        "cloud_top": 82312.85,
+        "cloud_bottom": 80483.02500000001,
+        "senkou_span_a": 80483.02500000001,
+        "senkou_span_b": 82312.85
       },
       "h4": {
         "signals": [
-          "跌破雲層",
-          "轉換線阻力回落"
+          "三役好轉"
         ],
         "trend": "趨勢不明確",
-        "recommendation": "做空",
-        "price": 65957.8,
-        "tenkan_sen": 66331.7,
-        "kijun_sen": 65867.15,
-        "cloud_top": 66582.125,
+        "recommendation": "做多",
+        "price": 69713.4,
+        "tenkan_sen": 67575.75,
+        "kijun_sen": 66560.05,
+        "cloud_top": 66602.525,
         "cloud_bottom": 66250.04999999999,
-        "senkou_span_a": 66582.125,
+        "senkou_span_a": 66602.525,
         "senkou_span_b": 66250.04999999999
       },
-      "combined_recommendation": "強力做空",
-      "combined_explanation": "日線與4H共振空頭，高勝率機會",
-      "ai_advice": "根據一目均衡表數據，**操作建議**：做空。\n**進場價位**：參考65957.8000附近區間。\n**停損位置**：設於基準線67121.1500以上。\n**目標價位**：未達雲層下緣83591.7750前，持續做空。\n**風險提醒**：注意趨勢逆轉和雲層支撐帶來的風險。",
+      "combined_recommendation": "強力做多",
+      "combined_explanation": "日線與4H共振多頭，高勝率機會",
+      "ai_advice": "根據一目均衡表數據，提供以下建議：\n\n1. **操作建議**：做多\n2. **進場價位**：66300-67500區間\n3. **停損位置**：設於66144以下\n4. **目標價位**：80483-82312區間\n5. **風險提醒**：注意趨勢不明確，需密切監控行情變化。",
       "ai_provider": "GROQ",
       "ai_model": "llama-3.3-70b-versatile"
     },
@@ -46,389 +46,7 @@
       "symbol": "ETH-USDT",
       "source": "Crypto",
       "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:ETHUSDT",
-      "timestamp": "2026-03-02T21:01:46.147679+08:00",
-      "has_signal": true,
-      "daily": {
-        "signals": [
-          "黃金交叉"
-        ],
-        "trend": "趨勢不明確",
-        "recommendation": "做多",
-        "price": 1938.12,
-        "tenkan_sen": 1974.08,
-        "kijun_sen": 1970.515,
-        "cloud_top": 2755.6800000000003,
-        "cloud_bottom": 2666.34,
-        "senkou_span_a": 2666.34,
-        "senkou_span_b": 2755.6800000000003
-      },
-      "h4": {
-        "signals": [
-          "基準線阻力回落"
-        ],
-        "trend": "趨勢不明確",
-        "recommendation": "做空",
-        "price": 1938.12,
-        "tenkan_sen": 1968.755,
-        "kijun_sen": 1959.545,
-        "cloud_top": 1985.905,
-        "cloud_bottom": 1974.08,
-        "senkou_span_a": 1985.905,
-        "senkou_span_b": 1974.08
-      },
-      "combined_recommendation": "觀望等待",
-      "combined_explanation": "短期回調中，等4H轉多再進場",
-      "ai_advice": "根據一目均衡表數據，提供以下建議：\n\n1. **操作建議**：觀望等待，因為日線和4小時線的信號相互矛盾。\n2. **進場價位**：無建議進場，等待趨勢明確。\n3. **停損位置**：若決定進場，建議停損於1900元以下。\n4. **目標價位**：無明確目標，待趨勢明確後重新評估。\n5. **風險提醒**：注意趨勢不明確的風險，避免過早進場。",
-      "ai_provider": "GROQ",
-      "ai_model": "llama-3.3-70b-versatile"
-    },
-    {
-      "symbol": "BNB-USDT",
-      "source": "Crypto",
-      "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:BNBUSDT",
-      "timestamp": "2026-03-02T21:01:46.221308+08:00",
-      "has_signal": true,
-      "daily": {
-        "signals": [
-          "三役逆轉"
-        ],
-        "trend": "趨勢不明確",
-        "recommendation": "做空",
-        "price": 622.1,
-        "tenkan_sen": 609.0,
-        "kijun_sen": 653.05,
-        "cloud_top": 843.4,
-        "cloud_bottom": 831.0,
-        "senkou_span_a": 831.0,
-        "senkou_span_b": 843.4
-      },
-      "h4": {
-        "signals": [],
-        "trend": "強勢上升趨勢",
-        "recommendation": "偏多",
-        "price": 622.1,
-        "tenkan_sen": 621.35,
-        "kijun_sen": 611.25,
-        "cloud_top": 610.0,
-        "cloud_bottom": 609.0,
-        "senkou_span_a": 610.0,
-        "senkou_span_b": 609.0
-      },
-      "combined_recommendation": "觀望等待",
-      "combined_explanation": "日線空但4H偏多，等待方向明確",
-      "ai_advice": "根據一目均衡表數據，建議觀望等待。日線趨勢不明確，單週期建議做空，但4小時線顯示強勢上升趨勢。因此， operation 方向為觀望。\n\n進場價位：無建議，等待趨勢明確。\n停損位置：無建議，等待進場機會。\n目標價位：無建議，等待進場機會。\n風險提醒：注意日線和4小時線的趨勢衝突，避免倉促進場。",
-      "ai_provider": "GROQ",
-      "ai_model": "llama-3.3-70b-versatile"
-    },
-    {
-      "symbol": "SOL-USDT",
-      "source": "Crypto",
-      "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:SOLUSDT",
-      "timestamp": "2026-03-02T21:01:46.213196+08:00",
-      "has_signal": true,
-      "daily": {
-        "signals": [
-          "黃金交叉"
-        ],
-        "trend": "趨勢不明確",
-        "recommendation": "做多",
-        "price": 83.63,
-        "tenkan_sen": 83.89500000000001,
-        "kijun_sen": 81.08,
-        "cloud_top": 120.01,
-        "cloud_bottom": 114.915,
-        "senkou_span_a": 114.915,
-        "senkou_span_b": 120.01
-      },
-      "h4": {
-        "signals": [
-          "雲層阻力回落"
-        ],
-        "trend": "趨勢不明確",
-        "recommendation": "做空",
-        "price": 83.63,
-        "tenkan_sen": 84.97999999999999,
-        "kijun_sen": 83.015,
-        "cloud_top": 84.52000000000001,
-        "cloud_bottom": 83.89500000000001,
-        "senkou_span_a": 84.52000000000001,
-        "senkou_span_b": 83.89500000000001
-      },
-      "combined_recommendation": "觀望等待",
-      "combined_explanation": "短期回調中，等4H轉多再進場",
-      "ai_advice": "根據一目均衡表數據，給出的建議如下：\n\n1. **操作建議**：觀望等待，因為日線和4小時線的單週期建議不一致。\n2. **進場價位**：無明確進場區間，等待趨勢明確。\n3. **停損位置**：根據雲層範圍，日線的81.0800和4小時線的83.8950可作為參考。\n4. **目標價位**：無明確目標，需等待趨勢明確。\n5. **風險提醒**：趨勢不明確，雲層阻力回落，需要謹慎觀察市場變化。",
-      "ai_provider": "GROQ",
-      "ai_model": "llama-3.3-70b-versatile"
-    },
-    {
-      "symbol": "XRP-USDT",
-      "source": "Crypto",
-      "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:XRPUSDT",
-      "timestamp": "2026-03-02T21:01:45.973836+08:00",
-      "has_signal": true,
-      "daily": {
-        "signals": [
-          "三役逆轉"
-        ],
-        "trend": "強勢下降趨勢",
-        "recommendation": "做空",
-        "price": 1.3478,
-        "tenkan_sen": 1.3820000000000001,
-        "kijun_sen": 1.395,
-        "cloud_top": 1.9599,
-        "cloud_bottom": 1.7851499999999998,
-        "senkou_span_a": 1.7851499999999998,
-        "senkou_span_b": 1.9599
-      },
-      "h4": {
-        "signals": [],
-        "trend": "趨勢不明確",
-        "recommendation": "觀望",
-        "price": 1.3478,
-        "tenkan_sen": 1.37935,
-        "kijun_sen": 1.3635000000000002,
-        "cloud_top": 1.4102000000000001,
-        "cloud_bottom": 1.4037,
-        "senkou_span_a": 1.4102000000000001,
-        "senkou_span_b": 1.4037
-      },
-      "combined_recommendation": "偏空操作",
-      "combined_explanation": "日線空頭，等待4H確認進場點",
-      "ai_advice": "根據一目均衡表數據，提供以下建議：\n\n1. **操作建議**：做空\n2. **進場價位**：1.35-1.38\n3. **停損位置**：1.40\n4. **目標價位**：1.25\n5. **風險提醒**：需注意趨勢逆轉風險和雲層支撐位。",
-      "ai_provider": "GROQ",
-      "ai_model": "llama-3.3-70b-versatile"
-    },
-    {
-      "symbol": "ADA-USDT",
-      "source": "Crypto",
-      "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:ADAUSDT",
-      "timestamp": "2026-03-02T21:01:45.875858+08:00",
-      "has_signal": false,
-      "daily": {
-        "signals": [],
-        "trend": "趨勢不明確",
-        "recommendation": "觀望",
-        "price": 0.2708,
-        "tenkan_sen": 0.2838,
-        "kijun_sen": 0.26715,
-        "cloud_top": 0.353,
-        "cloud_bottom": 0.332325,
-        "senkou_span_a": 0.332325,
-        "senkou_span_b": 0.353
-      },
-      "h4": {
-        "signals": [],
-        "trend": "趨勢不明確",
-        "recommendation": "觀望",
-        "price": 0.2708,
-        "tenkan_sen": 0.27825,
-        "kijun_sen": 0.27785000000000004,
-        "cloud_top": 0.2848,
-        "cloud_bottom": 0.2838,
-        "senkou_span_a": 0.2848,
-        "senkou_span_b": 0.2838
-      },
-      "combined_recommendation": "觀望",
-      "combined_explanation": "無明確方向，建議等待",
-      "ai_advice": null,
-      "ai_provider": null,
-      "ai_model": null
-    },
-    {
-      "symbol": "DOGE-USDT",
-      "source": "Crypto",
-      "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:DOGEUSDT",
-      "timestamp": "2026-03-02T21:01:46.123532+08:00",
-      "has_signal": true,
-      "daily": {
-        "signals": [
-          "三役逆轉"
-        ],
-        "trend": "強勢下降趨勢",
-        "recommendation": "做空",
-        "price": 0.09141,
-        "tenkan_sen": 0.096995,
-        "kijun_sen": 0.09879,
-        "cloud_top": 0.12581,
-        "cloud_bottom": 0.11725,
-        "senkou_span_a": 0.11725,
-        "senkou_span_b": 0.12581
-      },
-      "h4": {
-        "signals": [
-          "三役逆轉"
-        ],
-        "trend": "趨勢不明確",
-        "recommendation": "做空",
-        "price": 0.09141,
-        "tenkan_sen": 0.093575,
-        "kijun_sen": 0.09415,
-        "cloud_top": 0.098325,
-        "cloud_bottom": 0.09808,
-        "senkou_span_a": 0.098325,
-        "senkou_span_b": 0.09808
-      },
-      "combined_recommendation": "強力做空",
-      "combined_explanation": "日線與4H共振空頭，高勝率機會",
-      "ai_advice": "根據提供的數據，_DOGE-USDT的日線和4小時線都顯示強力做空的態勢。因此：\n\n1. **操作建議**：做空\n2. **進場價位**：0.0900 ~ 0.0920\n3. **停損位置**：0.0950\n4. **目標價位**：0.0800\n5. **風險提醒**：注意雲層範圍（0.1172 ~ 0.1258）可能的反彈壓力。",
-      "ai_provider": "GROQ",
-      "ai_model": "llama-3.3-70b-versatile"
-    },
-    {
-      "symbol": "AVAX-USDT",
-      "source": "Crypto",
-      "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:AVAXUSDT",
-      "timestamp": "2026-03-02T21:01:46.167064+08:00",
-      "has_signal": true,
-      "daily": {
-        "signals": [],
-        "trend": "趨勢不明確",
-        "recommendation": "觀望",
-        "price": 8.951,
-        "tenkan_sen": 9.0085,
-        "kijun_sen": 8.751000000000001,
-        "cloud_top": 12.0565,
-        "cloud_bottom": 11.39225,
-        "senkou_span_a": 11.39225,
-        "senkou_span_b": 12.0565
-      },
-      "h4": {
-        "signals": [
-          "基準線阻力回落"
-        ],
-        "trend": "趨勢不明確",
-        "recommendation": "做空",
-        "price": 8.951,
-        "tenkan_sen": 9.0735,
-        "kijun_sen": 8.958,
-        "cloud_top": 9.02675,
-        "cloud_bottom": 9.0085,
-        "senkou_span_a": 9.02675,
-        "senkou_span_b": 9.0085
-      },
-      "combined_recommendation": "短空試單",
-      "combined_explanation": "無大趨勢，僅短線空頭機會",
-      "ai_advice": "根據一目均衡表數據，提供以下建議：\n\n1. **操作建議**：做空\n2. **進場價位**：8.95 ~ 9.00\n3. **停損位置**：9.10\n4. **目標價位**：8.60\n5. **風險提醒**：趨勢不明確，雲層範圍較窄，需謹慎操作。",
-      "ai_provider": "GROQ",
-      "ai_model": "llama-3.3-70b-versatile"
-    },
-    {
-      "symbol": "DOT-USDT",
-      "source": "Crypto",
-      "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:DOTUSDT",
-      "timestamp": "2026-03-02T21:01:46.102528+08:00",
-      "has_signal": true,
-      "daily": {
-        "signals": [],
-        "trend": "趨勢不明確",
-        "recommendation": "觀望",
-        "price": 1.51,
-        "tenkan_sen": 1.4895,
-        "kijun_sen": 1.4275,
-        "cloud_top": 1.871,
-        "cloud_bottom": 1.76,
-        "senkou_span_a": 1.76,
-        "senkou_span_b": 1.871
-      },
-      "h4": {
-        "signals": [
-          "死亡交叉"
-        ],
-        "trend": "趨勢不明確",
-        "recommendation": "做空",
-        "price": 1.51,
-        "tenkan_sen": 1.5605000000000002,
-        "kijun_sen": 1.57,
-        "cloud_top": 1.4915,
-        "cloud_bottom": 1.4895,
-        "senkou_span_a": 1.4915,
-        "senkou_span_b": 1.4895
-      },
-      "combined_recommendation": "短空試單",
-      "combined_explanation": "無大趨勢，僅短線空頭機會",
-      "ai_advice": "根據一目均衡表數據，建議做空。\n\n1. **操作建議**：做空\n2. **進場價位**：1.5100附近\n3. **停損位置**：1.5700以上\n4. **目標價位**：1.4275\n5. **風險提醒**：注意雲層範圍和基準線的支撐，避免趨勢逆轉。",
-      "ai_provider": "GROQ",
-      "ai_model": "llama-3.3-70b-versatile"
-    },
-    {
-      "symbol": "POL-USDT",
-      "source": "Crypto",
-      "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:POLUSDT",
-      "timestamp": "2026-03-02T21:01:46.021708+08:00",
-      "has_signal": true,
-      "daily": {
-        "signals": [],
-        "trend": "趨勢不明確",
-        "recommendation": "觀望",
-        "price": 0.10245,
-        "tenkan_sen": 0.10941500000000001,
-        "kijun_sen": 0.10108,
-        "cloud_top": 0.1399,
-        "cloud_bottom": 0.123675,
-        "senkou_span_a": 0.123675,
-        "senkou_span_b": 0.1399
-      },
-      "h4": {
-        "signals": [
-          "三役逆轉"
-        ],
-        "trend": "趨勢不明確",
-        "recommendation": "做空",
-        "price": 0.10245,
-        "tenkan_sen": 0.106405,
-        "kijun_sen": 0.108705,
-        "cloud_top": 0.11233000000000001,
-        "cloud_bottom": 0.10997000000000001,
-        "senkou_span_a": 0.11233000000000001,
-        "senkou_span_b": 0.10997000000000001
-      },
-      "combined_recommendation": "短空試單",
-      "combined_explanation": "無大趨勢，僅短線空頭機會",
-      "ai_advice": "根據提供的一目均衡表數據，以下是具體的交易建議：\n\n1. **操作建議**：做空\n2. **進場價位**：0.1024至0.1064之間\n3. **停損位置**：0.1094\n4. **目標價位**：0.0950\n5. **風險提醒**：注意雲層下緣的支撐區域（0.1237 ~ 0.1399），如價格突破雲層上緣，則趨勢可能逆轉。",
-      "ai_provider": "GROQ",
-      "ai_model": "llama-3.3-70b-versatile"
-    },
-    {
-      "symbol": "LINK-USDT",
-      "source": "Crypto",
-      "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:LINKUSDT",
-      "timestamp": "2026-03-02T21:01:46.596159+08:00",
-      "has_signal": false,
-      "daily": {
-        "signals": [],
-        "trend": "趨勢不明確",
-        "recommendation": "觀望",
-        "price": 8.662,
-        "tenkan_sen": 8.8225,
-        "kijun_sen": 8.374,
-        "cloud_top": 11.679,
-        "cloud_bottom": 11.12575,
-        "senkou_span_a": 11.12575,
-        "senkou_span_b": 11.679
-      },
-      "h4": {
-        "signals": [],
-        "trend": "趨勢不明確",
-        "recommendation": "觀望",
-        "price": 8.662,
-        "tenkan_sen": 8.8185,
-        "kijun_sen": 8.7665,
-        "cloud_top": 8.8505,
-        "cloud_bottom": 8.8225,
-        "senkou_span_a": 8.8505,
-        "senkou_span_b": 8.8225
-      },
-      "combined_recommendation": "觀望",
-      "combined_explanation": "無明確方向，建議等待",
-      "ai_advice": null,
-      "ai_provider": null,
-      "ai_model": null
-    },
-    {
-      "symbol": "UNI-USDT",
-      "source": "Crypto",
-      "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:UNIUSDT",
-      "timestamp": "2026-03-02T21:01:46.702860+08:00",
+      "timestamp": "2026-03-03T00:51:42.634675+08:00",
       "has_signal": true,
       "daily": {
         "signals": [
@@ -436,52 +54,442 @@
         ],
         "trend": "趨勢不明確",
         "recommendation": "做多",
-        "price": 3.762,
-        "tenkan_sen": 3.776,
-        "kijun_sen": 3.6975,
-        "cloud_top": 5.0835,
-        "cloud_bottom": 4.48175,
-        "senkou_span_a": 4.48175,
-        "senkou_span_b": 5.0835
+        "price": 2066.54,
+        "tenkan_sen": 1974.08,
+        "kijun_sen": 1948.23,
+        "cloud_top": 2665.165,
+        "cloud_bottom": 2575.825,
+        "senkou_span_a": 2575.825,
+        "senkou_span_b": 2665.165
+      },
+      "h4": {
+        "signals": [
+          "三役好轉",
+          "唐奇安通道突破"
+        ],
+        "trend": "趨勢不明確",
+        "recommendation": "做多",
+        "price": 2066.0,
+        "tenkan_sen": 1999.15,
+        "kijun_sen": 1963.185,
+        "cloud_top": 1986.155,
+        "cloud_bottom": 1974.08,
+        "senkou_span_a": 1986.155,
+        "senkou_span_b": 1974.08
+      },
+      "combined_recommendation": "強力做多",
+      "combined_explanation": "日線與4H共振多頭，高勝率機會",
+      "ai_advice": "根據一目均衡表數據，提供以下建議：\n\n1. **操作建議**：做多\n2. **進場價位**：2050-2080\n3. **停損位置**：1940\n4. **目標價位**：2200-2300\n5. **風險提醒**：注意雲層下緣的支撐和轉換線的壓力。",
+      "ai_provider": "GROQ",
+      "ai_model": "llama-3.3-70b-versatile"
+    },
+    {
+      "symbol": "BNB-USDT",
+      "source": "Crypto",
+      "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:BNBUSDT",
+      "timestamp": "2026-03-03T00:51:42.571745+08:00",
+      "has_signal": true,
+      "daily": {
+        "signals": [
+          "三役逆轉",
+          "基準線阻力失守"
+        ],
+        "trend": "趨勢不明確",
+        "recommendation": "觀望",
+        "price": 650.1,
+        "tenkan_sen": 615.2,
+        "kijun_sen": 621.6500000000001,
+        "cloud_top": 802.95,
+        "cloud_bottom": 790.55,
+        "senkou_span_a": 790.55,
+        "senkou_span_b": 802.95
+      },
+      "h4": {
+        "signals": [
+          "三役好轉"
+        ],
+        "trend": "強勢上升趨勢",
+        "recommendation": "做多",
+        "price": 650.1,
+        "tenkan_sen": 632.1500000000001,
+        "kijun_sen": 620.9000000000001,
+        "cloud_top": 610.0,
+        "cloud_bottom": 609.0,
+        "senkou_span_a": 610.0,
+        "senkou_span_b": 609.0
+      },
+      "combined_recommendation": "短多試單",
+      "combined_explanation": "無大趨勢，僅短線多頭機會",
+      "ai_advice": "根據一目均衡表數據，建議**做多**。\n- **進場價位**：630-650之間。\n- **停損位置**：設定於610，低於此價位則趨勢可能逆轉。\n- **目標價位**：680-700。\n- **風險提醒**：注意日線趨勢不明確，若基準線再度失守可能會出現逆轉。",
+      "ai_provider": "GROQ",
+      "ai_model": "llama-3.3-70b-versatile"
+    },
+    {
+      "symbol": "SOL-USDT",
+      "source": "Crypto",
+      "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:SOLUSDT",
+      "timestamp": "2026-03-03T00:51:42.545802+08:00",
+      "has_signal": true,
+      "daily": {
+        "signals": [
+          "遲行線好轉"
+        ],
+        "trend": "趨勢不明確",
+        "recommendation": "做多",
+        "price": 89.46,
+        "tenkan_sen": 83.89500000000001,
+        "kijun_sen": 79.795,
+        "cloud_top": 116.06,
+        "cloud_bottom": 110.965,
+        "senkou_span_a": 110.965,
+        "senkou_span_b": 116.06
+      },
+      "h4": {
+        "signals": [
+          "三役好轉",
+          "唐奇安通道突破"
+        ],
+        "trend": "趨勢不明確",
+        "recommendation": "做多",
+        "price": 89.46,
+        "tenkan_sen": 85.995,
+        "kijun_sen": 83.71000000000001,
+        "cloud_top": 84.67,
+        "cloud_bottom": 83.89500000000001,
+        "senkou_span_a": 84.67,
+        "senkou_span_b": 83.89500000000001
+      },
+      "combined_recommendation": "強力做多",
+      "combined_explanation": "日線與4H共振多頭，高勝率機會",
+      "ai_advice": "根據提供的數據，給出以下建議：\n\n1. **操作建議**：做多\n2. **進場價位**：85.9950至83.7100區間\n3. **停損位置**：79.7950（基準線）\n4. **目標價位**：110.9650（雲層下限）\n5. **風險提醒**：趨勢不明確，需注意市場波動風險。",
+      "ai_provider": "GROQ",
+      "ai_model": "llama-3.3-70b-versatile"
+    },
+    {
+      "symbol": "XRP-USDT",
+      "source": "Crypto",
+      "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:XRPUSDT",
+      "timestamp": "2026-03-03T00:51:42.464609+08:00",
+      "has_signal": true,
+      "daily": {
+        "signals": [
+          "遲行線好轉"
+        ],
+        "trend": "趨勢不明確",
+        "recommendation": "做多",
+        "price": 1.4112,
+        "tenkan_sen": 1.3820000000000001,
+        "kijun_sen": 1.395,
+        "cloud_top": 1.84245,
+        "cloud_bottom": 1.6677,
+        "senkou_span_a": 1.6677,
+        "senkou_span_b": 1.84245
+      },
+      "h4": {
+        "signals": [
+          "突破雲層"
+        ],
+        "trend": "趨勢不明確",
+        "recommendation": "做多",
+        "price": 1.4114,
+        "tenkan_sen": 1.3785500000000002,
+        "kijun_sen": 1.3582,
+        "cloud_top": 1.4102000000000001,
+        "cloud_bottom": 1.4032,
+        "senkou_span_a": 1.4102000000000001,
+        "senkou_span_b": 1.4032
+      },
+      "combined_recommendation": "強力做多",
+      "combined_explanation": "日線與4H共振多頭，高勝率機會",
+      "ai_advice": "**操作建議**：強力做多\n**進場價位**：1.38-1.42區間\n**停損位置**：1.35以下\n**目標價位**：1.67（雲層下緣）\n**風險提醒**：趨勢不明確，需注意雲層變化及突破失敗風險。",
+      "ai_provider": "GROQ",
+      "ai_model": "llama-3.3-70b-versatile"
+    },
+    {
+      "symbol": "ADA-USDT",
+      "source": "Crypto",
+      "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:ADAUSDT",
+      "timestamp": "2026-03-03T00:51:42.502828+08:00",
+      "has_signal": true,
+      "daily": {
+        "signals": [
+          "遲行線好轉"
+        ],
+        "trend": "趨勢不明確",
+        "recommendation": "做多",
+        "price": 0.2856,
+        "tenkan_sen": 0.2838,
+        "kijun_sen": 0.26715,
+        "cloud_top": 0.34750000000000003,
+        "cloud_bottom": 0.32682500000000003,
+        "senkou_span_a": 0.32682500000000003,
+        "senkou_span_b": 0.34750000000000003
+      },
+      "h4": {
+        "signals": [
+          "突破雲層"
+        ],
+        "trend": "趨勢不明確",
+        "recommendation": "做多",
+        "price": 0.2857,
+        "tenkan_sen": 0.2786,
+        "kijun_sen": 0.27785000000000004,
+        "cloud_top": 0.284875,
+        "cloud_bottom": 0.2838,
+        "senkou_span_a": 0.284875,
+        "senkou_span_b": 0.2838
+      },
+      "combined_recommendation": "強力做多",
+      "combined_explanation": "日線與4H共振多頭，高勝率機會",
+      "ai_advice": "根據一目均衡表數據，提供以下建議：\n\n1. **操作建議**：強力做多\n2. **進場價位**：0.2800 ~ 0.2850\n3. **停損位置**：0.2650\n4. **目標價位**：0.3200\n5. **風險提醒**：注意雲層範圍（0.3268 ~ 0.3475）可能的阻力。",
+      "ai_provider": "GROQ",
+      "ai_model": "llama-3.3-70b-versatile"
+    },
+    {
+      "symbol": "DOGE-USDT",
+      "source": "Crypto",
+      "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:DOGEUSDT",
+      "timestamp": "2026-03-03T00:51:42.569082+08:00",
+      "has_signal": true,
+      "daily": {
+        "signals": [
+          "遲行線好轉"
+        ],
+        "trend": "強勢下降趨勢",
+        "recommendation": "做多",
+        "price": 0.09686,
+        "tenkan_sen": 0.096995,
+        "kijun_sen": 0.09879,
+        "cloud_top": 0.12462000000000001,
+        "cloud_bottom": 0.11606,
+        "senkou_span_a": 0.11606,
+        "senkou_span_b": 0.12462000000000001
+      },
+      "h4": {
+        "signals": [
+          "黃金交叉"
+        ],
+        "trend": "趨勢不明確",
+        "recommendation": "做多",
+        "price": 0.09688,
+        "tenkan_sen": 0.094125,
+        "kijun_sen": 0.09361,
+        "cloud_top": 0.098325,
+        "cloud_bottom": 0.09808,
+        "senkou_span_a": 0.098325,
+        "senkou_span_b": 0.09808
+      },
+      "combined_recommendation": "強力做多",
+      "combined_explanation": "日線與4H共振多頭，高勝率機會",
+      "ai_advice": "根據一目均衡表數據，提供以下建議：\n\n1. **操作建議**：做多\n2. **進場價位**：0.0950 ~ 0.0970\n3. **停損位置**：0.0920\n4. **目標價位**：0.1161 ~ 0.1246\n5. **風險提醒**：注意趨勢強度為強勢下降，需要謹慎操作。",
+      "ai_provider": "GROQ",
+      "ai_model": "llama-3.3-70b-versatile"
+    },
+    {
+      "symbol": "AVAX-USDT",
+      "source": "Crypto",
+      "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:AVAXUSDT",
+      "timestamp": "2026-03-03T00:51:42.601632+08:00",
+      "has_signal": true,
+      "daily": {
+        "signals": [
+          "遲行線好轉"
+        ],
+        "trend": "趨勢不明確",
+        "recommendation": "做多",
+        "price": 9.405,
+        "tenkan_sen": 9.0085,
+        "kijun_sen": 8.69,
+        "cloud_top": 11.8345,
+        "cloud_bottom": 11.17025,
+        "senkou_span_a": 11.17025,
+        "senkou_span_b": 11.8345
+      },
+      "h4": {
+        "signals": [
+          "三役好轉"
+        ],
+        "trend": "趨勢不明確",
+        "recommendation": "做多",
+        "price": 9.405,
+        "tenkan_sen": 9.161000000000001,
+        "kijun_sen": 8.958,
+        "cloud_top": 9.02975,
+        "cloud_bottom": 9.0085,
+        "senkou_span_a": 9.02975,
+        "senkou_span_b": 9.0085
+      },
+      "combined_recommendation": "強力做多",
+      "combined_explanation": "日線與4H共振多頭，高勝率機會",
+      "ai_advice": "根據一目均衡表數據，提供以下建議：\n\n1. **操作建議**：強力做多\n2. **進場價位**：9.3 ~ 9.5\n3. **停損位置**：8.6\n4. **目標價位**：11.0\n5. **風險提醒**：注意趨勢不明確，需密切監控市場變化。",
+      "ai_provider": "GROQ",
+      "ai_model": "llama-3.3-70b-versatile"
+    },
+    {
+      "symbol": "DOT-USDT",
+      "source": "Crypto",
+      "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:DOTUSDT",
+      "timestamp": "2026-03-03T00:51:42.392531+08:00",
+      "has_signal": false,
+      "daily": {
+        "signals": [],
+        "trend": "趨勢不明確",
+        "recommendation": "觀望",
+        "price": 1.572,
+        "tenkan_sen": 1.4895,
+        "kijun_sen": 1.4275,
+        "cloud_top": 1.819,
+        "cloud_bottom": 1.708,
+        "senkou_span_a": 1.708,
+        "senkou_span_b": 1.819
+      },
+      "h4": {
+        "signals": [],
+        "trend": "趨勢不明確",
+        "recommendation": "觀望",
+        "price": 1.572,
+        "tenkan_sen": 1.552,
+        "kijun_sen": 1.57,
+        "cloud_top": 1.492,
+        "cloud_bottom": 1.4895,
+        "senkou_span_a": 1.492,
+        "senkou_span_b": 1.4895
+      },
+      "combined_recommendation": "觀望",
+      "combined_explanation": "無明確方向，建議等待",
+      "ai_advice": null,
+      "ai_provider": null,
+      "ai_model": null
+    },
+    {
+      "symbol": "POL-USDT",
+      "source": "Crypto",
+      "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:POLUSDT",
+      "timestamp": "2026-03-03T00:51:42.556685+08:00",
+      "has_signal": true,
+      "daily": {
+        "signals": [
+          "遲行線好轉"
+        ],
+        "trend": "趨勢不明確",
+        "recommendation": "做多",
+        "price": 0.10434,
+        "tenkan_sen": 0.10941500000000001,
+        "kijun_sen": 0.10108,
+        "cloud_top": 0.1399,
+        "cloud_bottom": 0.12357499999999999,
+        "senkou_span_a": 0.12357499999999999,
+        "senkou_span_b": 0.1399
       },
       "h4": {
         "signals": [
           "三役逆轉",
-          "死亡交叉",
-          "跌破雲層",
           "轉換線阻力回落"
         ],
         "trend": "趨勢不明確",
         "recommendation": "做空",
-        "price": 3.762,
-        "tenkan_sen": 3.7664999999999997,
-        "kijun_sen": 3.8135,
-        "cloud_top": 3.78875,
-        "cloud_bottom": 3.776,
-        "senkou_span_a": 3.78875,
-        "senkou_span_b": 3.776
+        "price": 0.10424,
+        "tenkan_sen": 0.105245,
+        "kijun_sen": 0.108705,
+        "cloud_top": 0.11189750000000001,
+        "cloud_bottom": 0.10997000000000001,
+        "senkou_span_a": 0.11189750000000001,
+        "senkou_span_b": 0.10997000000000001
       },
       "combined_recommendation": "觀望等待",
       "combined_explanation": "短期回調中，等4H轉多再進場",
-      "ai_advice": "根據一目均衡表數據，給出的建議如下：\n\n1. **操作建議**：觀望等待\n2. **進場價位**：無\n3. **停損位置**：無\n4. **目標價位**：無\n5. **風險提醒**：日線和4小時線的信號不一致，趨勢不明確，建議觀望等待，避免風險。",
+      "ai_advice": "根據提供的數據，系統對日線和4小時線的建議存在差異。考慮到趨勢不明確和遲行線好轉的訊號，建議觀望等待較佳趨勢的形成。\n\n1. **操作建議**：觀望\n2. **進場價位**：無\n3. **停損位置**：無\n4. **目標價位**：無\n5. **風險提醒**：趨勢不明確，交易風險較高。",
       "ai_provider": "GROQ",
       "ai_model": "llama-3.3-70b-versatile"
+    },
+    {
+      "symbol": "LINK-USDT",
+      "source": "Crypto",
+      "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:LINKUSDT",
+      "timestamp": "2026-03-03T00:51:43.054762+08:00",
+      "has_signal": true,
+      "daily": {
+        "signals": [
+          "遲行線好轉"
+        ],
+        "trend": "趨勢不明確",
+        "recommendation": "做多",
+        "price": 9.161,
+        "tenkan_sen": 8.8225,
+        "kijun_sen": 8.374,
+        "cloud_top": 11.353,
+        "cloud_bottom": 10.79975,
+        "senkou_span_a": 10.79975,
+        "senkou_span_b": 11.353
+      },
+      "h4": {
+        "signals": [],
+        "trend": "趨勢不明確",
+        "recommendation": "觀望",
+        "price": 9.161,
+        "tenkan_sen": 8.907,
+        "kijun_sen": 8.7615,
+        "cloud_top": 8.85475,
+        "cloud_bottom": 8.8225,
+        "senkou_span_a": 8.85475,
+        "senkou_span_b": 8.8225
+      },
+      "combined_recommendation": "偏多操作",
+      "combined_explanation": "日線多頭，等待4H確認進場點",
+      "ai_advice": "根據一目均衡表數據，提供以下建議：\n\n1. **操作建議**：做多\n2. **進場價位**：8.8 ~ 9.0\n3. **停損位置**：8.3\n4. **目標價位**：10.5 ~ 11.0\n5. **風險提醒**：趨勢不明確，需密切關注雲層範圍和轉換線的變化。",
+      "ai_provider": "GROQ",
+      "ai_model": "llama-3.3-70b-versatile"
+    },
+    {
+      "symbol": "UNI-USDT",
+      "source": "Crypto",
+      "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:UNIUSDT",
+      "timestamp": "2026-03-03T00:51:43.117784+08:00",
+      "has_signal": false,
+      "daily": {
+        "signals": [],
+        "trend": "趨勢不明確",
+        "recommendation": "觀望",
+        "price": 3.998,
+        "tenkan_sen": 3.776,
+        "kijun_sen": 3.6975,
+        "cloud_top": 4.941,
+        "cloud_bottom": 4.33925,
+        "senkou_span_a": 4.33925,
+        "senkou_span_b": 4.941
+      },
+      "h4": {
+        "signals": [],
+        "trend": "趨勢不明確",
+        "recommendation": "觀望",
+        "price": 3.998,
+        "tenkan_sen": 3.8565,
+        "kijun_sen": 3.793,
+        "cloud_top": 3.7939999999999996,
+        "cloud_bottom": 3.776,
+        "senkou_span_a": 3.7939999999999996,
+        "senkou_span_b": 3.776
+      },
+      "combined_recommendation": "觀望",
+      "combined_explanation": "無明確方向，建議等待",
+      "ai_advice": null,
+      "ai_provider": null,
+      "ai_model": null
     },
     {
       "symbol": "ATOM-USDT",
       "source": "Crypto",
       "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:ATOMUSDT",
-      "timestamp": "2026-03-02T21:01:46.699912+08:00",
+      "timestamp": "2026-03-03T00:51:43.148270+08:00",
       "has_signal": true,
       "daily": {
         "signals": [
-          "三役逆轉",
-          "死亡交叉"
+          "三役逆轉"
         ],
         "trend": "強勢下降趨勢",
         "recommendation": "做空",
-        "price": 1.798,
-        "tenkan_sen": 2.0564999999999998,
+        "price": 1.848,
+        "tenkan_sen": 2.0155000000000003,
         "kijun_sen": 2.0825,
         "cloud_top": 2.2555,
         "cloud_bottom": 2.15625,
@@ -490,21 +498,22 @@
       },
       "h4": {
         "signals": [
-          "三役逆轉"
+          "三役逆轉",
+          "基準線阻力回落"
         ],
-        "trend": "強勢下降趨勢",
+        "trend": "趨勢不明確",
         "recommendation": "做空",
-        "price": 1.798,
-        "tenkan_sen": 1.8145,
+        "price": 1.848,
+        "tenkan_sen": 1.8175,
         "kijun_sen": 1.8515000000000001,
-        "cloud_top": 2.2115,
-        "cloud_bottom": 2.0655,
-        "senkou_span_a": 2.0655,
-        "senkou_span_b": 2.2115
+        "cloud_top": 2.2030000000000003,
+        "cloud_bottom": 2.056,
+        "senkou_span_a": 2.056,
+        "senkou_span_b": 2.2030000000000003
       },
       "combined_recommendation": "強力做空",
       "combined_explanation": "日線與4H共振空頭，高勝率機會",
-      "ai_advice": "根據提供的數據，以下是建議：\n1. **操作建議**：做空\n2. **進場價位**：1.80-1.85區間\n3. **停損位置**：2.10\n4. **目標價位**：1.50\n5. **風險提醒**：注意雲層範圍和轉換線的反彈風險。",
+      "ai_advice": "根據一目均衡表數據，提供以下建議：\n\n1. **操作建議**：做空\n2. **進場價位**：1.85 ~ 1.90\n3. **停損位置**：2.05\n4. **目標價位**：1.60\n5. **風險提醒**：注意趨勢逆轉風險，雲層範圍下方支撐區域可能引發反彈。",
       "ai_provider": "GROQ",
       "ai_model": "llama-3.3-70b-versatile"
     },
@@ -512,121 +521,7 @@
       "symbol": "LTC-USDT",
       "source": "Crypto",
       "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:LTCUSDT",
-      "timestamp": "2026-03-02T21:01:46.692655+08:00",
-      "has_signal": true,
-      "daily": {
-        "signals": [],
-        "trend": "趨勢不明確",
-        "recommendation": "觀望",
-        "price": 53.2,
-        "tenkan_sen": 54.6,
-        "kijun_sen": 52.345,
-        "cloud_top": 69.94,
-        "cloud_bottom": 65.72,
-        "senkou_span_a": 65.72,
-        "senkou_span_b": 69.94
-      },
-      "h4": {
-        "signals": [
-          "三役逆轉"
-        ],
-        "trend": "趨勢不明確",
-        "recommendation": "做空",
-        "price": 53.2,
-        "tenkan_sen": 53.735,
-        "kijun_sen": 53.965,
-        "cloud_top": 54.8125,
-        "cloud_bottom": 54.6,
-        "senkou_span_a": 54.8125,
-        "senkou_span_b": 54.6
-      },
-      "combined_recommendation": "短空試單",
-      "combined_explanation": "無大趨勢，僅短線空頭機會",
-      "ai_advice": "根據一目均衡表數據，提供以下建議：\n\n1. **操作建議**：做空\n2. **進場價位**：53.2000 ~ 54.6000\n3. **停損位置**：55.0000\n4. **目標價位**：50.0000\n5. **風險提醒**：趨勢不明確，需密切觀察雲層範圍和轉換線的變化。",
-      "ai_provider": "GROQ",
-      "ai_model": "llama-3.3-70b-versatile"
-    },
-    {
-      "symbol": "ETC-USDT",
-      "source": "Crypto",
-      "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:ETCUSDT",
-      "timestamp": "2026-03-02T21:01:46.889627+08:00",
-      "has_signal": true,
-      "daily": {
-        "signals": [],
-        "trend": "趨勢不明確",
-        "recommendation": "觀望",
-        "price": 8.517,
-        "tenkan_sen": 8.861,
-        "kijun_sen": 8.469999999999999,
-        "cloud_top": 11.27,
-        "cloud_bottom": 10.785,
-        "senkou_span_a": 10.785,
-        "senkou_span_b": 11.27
-      },
-      "h4": {
-        "signals": [
-          "三役逆轉"
-        ],
-        "trend": "強勢下降趨勢",
-        "recommendation": "做空",
-        "price": 8.517,
-        "tenkan_sen": 8.555,
-        "kijun_sen": 8.607,
-        "cloud_top": 8.9355,
-        "cloud_bottom": 8.90675,
-        "senkou_span_a": 8.90675,
-        "senkou_span_b": 8.9355
-      },
-      "combined_recommendation": "短空試單",
-      "combined_explanation": "無大趨勢，僅短線空頭機會",
-      "ai_advice": "根據一目均衡表數據，提供以下建議：\n\n1. **操作建議**：做空\n2. **進場價位**：8.5 ~ 8.6\n3. **停損位置**：8.8\n4. **目標價位**：8.0\n5. **風險提醒**：注意雲層範圍的支撐和趨勢不明確的風險。",
-      "ai_provider": "GROQ",
-      "ai_model": "llama-3.3-70b-versatile"
-    },
-    {
-      "symbol": "XLM-USDT",
-      "source": "Crypto",
-      "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:XLMUSDT",
-      "timestamp": "2026-03-02T21:01:46.847488+08:00",
-      "has_signal": true,
-      "daily": {
-        "signals": [
-          "三役逆轉"
-        ],
-        "trend": "強勢下降趨勢",
-        "recommendation": "做空",
-        "price": 0.15331,
-        "tenkan_sen": 0.158385,
-        "kijun_sen": 0.16092,
-        "cloud_top": 0.21046,
-        "cloud_bottom": 0.19742,
-        "senkou_span_a": 0.19742,
-        "senkou_span_b": 0.21046
-      },
-      "h4": {
-        "signals": [],
-        "trend": "趨勢不明確",
-        "recommendation": "觀望",
-        "price": 0.15331,
-        "tenkan_sen": 0.15734,
-        "kijun_sen": 0.157335,
-        "cloud_top": 0.1588675,
-        "cloud_bottom": 0.158455,
-        "senkou_span_a": 0.1588675,
-        "senkou_span_b": 0.158455
-      },
-      "combined_recommendation": "偏空操作",
-      "combined_explanation": "日線空頭，等待4H確認進場點",
-      "ai_advice": "根據一目均衡表數據，提供以下建議：\n\n1. **操作建議**：做空\n2. **進場價位**：0.1550 ~ 0.1580\n3. **停損位置**：0.1620\n4. **目標價位**：0.1400\n5. **風險提醒**：趨勢強度強烈下降，需注意雲層下方的支撐位，避免過度追空。",
-      "ai_provider": "GROQ",
-      "ai_model": "llama-3.3-70b-versatile"
-    },
-    {
-      "symbol": "NEAR-USDT",
-      "source": "Crypto",
-      "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:NEARUSDT",
-      "timestamp": "2026-03-02T21:01:46.870190+08:00",
+      "timestamp": "2026-03-03T00:51:43.181727+08:00",
       "has_signal": true,
       "daily": {
         "signals": [
@@ -634,13 +529,129 @@
         ],
         "trend": "趨勢不明確",
         "recommendation": "做多",
-        "price": 1.222,
-        "tenkan_sen": 1.1075,
-        "kijun_sen": 1.052,
-        "cloud_top": 1.492,
-        "cloud_bottom": 1.395,
-        "senkou_span_a": 1.395,
-        "senkou_span_b": 1.492
+        "price": 55.25,
+        "tenkan_sen": 54.6,
+        "kijun_sen": 52.015,
+        "cloud_top": 68.78,
+        "cloud_bottom": 64.4225,
+        "senkou_span_a": 64.4225,
+        "senkou_span_b": 68.78
+      },
+      "h4": {
+        "signals": [],
+        "trend": "趨勢不明確",
+        "recommendation": "觀望",
+        "price": 55.27,
+        "tenkan_sen": 54.095,
+        "kijun_sen": 53.935,
+        "cloud_top": 54.8125,
+        "cloud_bottom": 54.6,
+        "senkou_span_a": 54.8125,
+        "senkou_span_b": 54.6
+      },
+      "combined_recommendation": "偏多操作",
+      "combined_explanation": "日線多頭，等待4H確認進場點",
+      "ai_advice": "根據一目均衡表數據，提供以下建議：\n\n1. **操作建議**：做多\n2. **進場價位**：54.5000 ~ 55.0000\n3. **停損位置**：52.0000\n4. **目標價位**：60.0000\n5. **風險提醒**：趨勢不明確，雲層範圍較窄，需注意價格波動風險。",
+      "ai_provider": "GROQ",
+      "ai_model": "llama-3.3-70b-versatile"
+    },
+    {
+      "symbol": "ETC-USDT",
+      "source": "Crypto",
+      "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:ETCUSDT",
+      "timestamp": "2026-03-03T00:51:43.345015+08:00",
+      "has_signal": true,
+      "daily": {
+        "signals": [
+          "遲行線好轉"
+        ],
+        "trend": "趨勢不明確",
+        "recommendation": "做多",
+        "price": 8.864,
+        "tenkan_sen": 8.861,
+        "kijun_sen": 8.469999999999999,
+        "cloud_top": 10.94,
+        "cloud_bottom": 10.455,
+        "senkou_span_a": 10.455,
+        "senkou_span_b": 10.94
+      },
+      "h4": {
+        "signals": [
+          "雲層阻力回落"
+        ],
+        "trend": "趨勢不明確",
+        "recommendation": "做空",
+        "price": 8.864,
+        "tenkan_sen": 8.642,
+        "kijun_sen": 8.599499999999999,
+        "cloud_top": 8.9355,
+        "cloud_bottom": 8.90675,
+        "senkou_span_a": 8.90675,
+        "senkou_span_b": 8.9355
+      },
+      "combined_recommendation": "觀望等待",
+      "combined_explanation": "短期回調中，等4H轉多再進場",
+      "ai_advice": "根據提供的數據，操作建議是觀望等待。雖然日線圖顯示做多訊號，但4小時線圖顯示做空訊號，趨勢不明確。進場價位無明確建議，停損位置設於8.4000，低於基準線。目標價位無明確設置。風險提醒：注意雲層範圍和轉換線的變化，避免趨勢逆轉的風險。",
+      "ai_provider": "GROQ",
+      "ai_model": "llama-3.3-70b-versatile"
+    },
+    {
+      "symbol": "XLM-USDT",
+      "source": "Crypto",
+      "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:XLMUSDT",
+      "timestamp": "2026-03-03T00:51:43.257092+08:00",
+      "has_signal": true,
+      "daily": {
+        "signals": [
+          "遲行線好轉"
+        ],
+        "trend": "趨勢不明確",
+        "recommendation": "做多",
+        "price": 0.16067,
+        "tenkan_sen": 0.158385,
+        "kijun_sen": 0.16092,
+        "cloud_top": 0.203405,
+        "cloud_bottom": 0.19036499999999998,
+        "senkou_span_a": 0.19036499999999998,
+        "senkou_span_b": 0.203405
+      },
+      "h4": {
+        "signals": [
+          "死亡交叉"
+        ],
+        "trend": "趨勢不明確",
+        "recommendation": "做空",
+        "price": 0.16067,
+        "tenkan_sen": 0.15698,
+        "kijun_sen": 0.157335,
+        "cloud_top": 0.1588675,
+        "cloud_bottom": 0.15841,
+        "senkou_span_a": 0.1588675,
+        "senkou_span_b": 0.15841
+      },
+      "combined_recommendation": "觀望等待",
+      "combined_explanation": "短期回調中，等4H轉多再進場",
+      "ai_advice": "根據一目均衡表數據，給出以下建議：\n\n1. **操作建議**：觀望等待\n2. **進場價位**：無明確進場區間\n3. **停損位置**：無明確停損價\n4. **目標價位**：無明確獲利目標\n5. **風險提醒**：日線和4小時線信號不一致，趨勢不明確，建議等待明確趨勢形成後再進行交易。",
+      "ai_provider": "GROQ",
+      "ai_model": "llama-3.3-70b-versatile"
+    },
+    {
+      "symbol": "NEAR-USDT",
+      "source": "Crypto",
+      "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:NEARUSDT",
+      "timestamp": "2026-03-03T00:51:43.236029+08:00",
+      "has_signal": true,
+      "daily": {
+        "signals": [],
+        "trend": "趨勢不明確",
+        "recommendation": "觀望",
+        "price": 1.317,
+        "tenkan_sen": 1.147,
+        "kijun_sen": 1.0915,
+        "cloud_top": 1.464,
+        "cloud_bottom": 1.367,
+        "senkou_span_a": 1.367,
+        "senkou_span_b": 1.464
       },
       "h4": {
         "signals": [
@@ -648,17 +659,17 @@
         ],
         "trend": "強勢上升趨勢",
         "recommendation": "做多",
-        "price": 1.222,
-        "tenkan_sen": 1.1695,
-        "kijun_sen": 1.127,
-        "cloud_top": 1.10975,
+        "price": 1.318,
+        "tenkan_sen": 1.2269999999999999,
+        "kijun_sen": 1.1844999999999999,
+        "cloud_top": 1.1105,
         "cloud_bottom": 1.1075,
-        "senkou_span_a": 1.10975,
+        "senkou_span_a": 1.1105,
         "senkou_span_b": 1.1075
       },
-      "combined_recommendation": "強力做多",
-      "combined_explanation": "日線與4H共振多頭，高勝率機會",
-      "ai_advice": "根據一目均衡表數據，建議進行**做多**操作。\n\n- **操作建議**：做多\n- **進場價位**：1.2000 ~ 1.2500\n- **停損位置**：1.0500\n- **目標價位**：1.3950\n- **風險提醒**：注意雲層範圍的阻力和趨勢不明確的風險。",
+      "combined_recommendation": "短多試單",
+      "combined_explanation": "無大趨勢，僅短線多頭機會",
+      "ai_advice": "根據提供的數據，建議**做多**NEAR-USDT。\n\n- **操作建議**：做多\n- **進場價位**：1.30 ~ 1.32\n- **停損位置**：1.25\n- **目標價位**：1.40\n- **風險提醒**：注意日線趨勢不明確，需密切監控市場變化。",
       "ai_provider": "GROQ",
       "ai_model": "llama-3.3-70b-versatile"
     },
@@ -666,40 +677,39 @@
       "symbol": "APT-USDT",
       "source": "Crypto",
       "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:APTUSDT",
-      "timestamp": "2026-03-02T21:01:46.920656+08:00",
+      "timestamp": "2026-03-03T00:51:43.459332+08:00",
       "has_signal": true,
       "daily": {
         "signals": [
           "三役逆轉"
         ],
-        "trend": "強勢下降趨勢",
+        "trend": "趨勢不明確",
         "recommendation": "做空",
-        "price": 0.9241,
+        "price": 0.9715,
         "tenkan_sen": 0.95095,
-        "kijun_sen": 1.01935,
-        "cloud_top": 1.576,
-        "cloud_bottom": 1.4785,
-        "senkou_span_a": 1.4785,
-        "senkou_span_b": 1.576
+        "kijun_sen": 0.9773499999999999,
+        "cloud_top": 1.5455,
+        "cloud_bottom": 1.448,
+        "senkou_span_a": 1.448,
+        "senkou_span_b": 1.5455
       },
       "h4": {
         "signals": [
-          "三役逆轉",
-          "轉換線阻力回落"
+          "三役好轉"
         ],
         "trend": "趨勢不明確",
-        "recommendation": "做空",
-        "price": 0.9241,
-        "tenkan_sen": 0.9378,
+        "recommendation": "做多",
+        "price": 0.9717,
+        "tenkan_sen": 0.9472,
         "kijun_sen": 0.94635,
-        "cloud_top": 0.95825,
+        "cloud_top": 0.959075,
         "cloud_bottom": 0.95095,
-        "senkou_span_a": 0.95825,
+        "senkou_span_a": 0.959075,
         "senkou_span_b": 0.95095
       },
-      "combined_recommendation": "強力做空",
-      "combined_explanation": "日線與4H共振空頭，高勝率機會",
-      "ai_advice": "根據提供的技術指標數據，以下是具體的交易建議：\n\n1. **操作建議**：做空\n2. **進場價位**：0.9200 ~ 0.9300\n3. **停損位置**：基準線 0.9464\n4. **目標價位**：0.8500\n5. **風險提醒**：注意雲層範圍 0.9509 ~ 0.9583 的阻力，避免過度追高。",
+      "combined_recommendation": "觀望等待",
+      "combined_explanation": "逆勢反彈風險高，不建議追多",
+      "ai_advice": "根據一目均衡表數據，系統判定綜合建議為觀望等待，但考慮到4小時線的做多訊號，建議進行謹慎的做多操作。\n\n1. **操作建議**：做多\n2. **進場價位**：0.95 ~ 0.97\n3. **停損位置**：0.94\n4. **目標價位**：1.00\n5. **風險提醒**：注意日線趨勢不明確，風險較高，建議控制倉位。",
       "ai_provider": "GROQ",
       "ai_model": "llama-3.3-70b-versatile"
     },
@@ -707,7 +717,7 @@
       "symbol": "OP-USDT",
       "source": "Crypto",
       "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:OPUSDT",
-      "timestamp": "2026-03-02T21:01:46.983837+08:00",
+      "timestamp": "2026-03-03T00:51:43.442939+08:00",
       "has_signal": true,
       "daily": {
         "signals": [
@@ -715,31 +725,29 @@
         ],
         "trend": "趨勢不明確",
         "recommendation": "做空",
-        "price": 0.1223,
+        "price": 0.1288,
         "tenkan_sen": 0.12145,
-        "kijun_sen": 0.1669,
-        "cloud_top": 0.2915,
-        "cloud_bottom": 0.2736,
-        "senkou_span_a": 0.2736,
-        "senkou_span_b": 0.2915
+        "kijun_sen": 0.15605000000000002,
+        "cloud_top": 0.28325,
+        "cloud_bottom": 0.26535,
+        "senkou_span_a": 0.26535,
+        "senkou_span_b": 0.28325
       },
       "h4": {
-        "signals": [
-          "轉換線阻力回落"
-        ],
-        "trend": "趨勢不明確",
-        "recommendation": "做空",
-        "price": 0.1223,
-        "tenkan_sen": 0.1224,
-        "kijun_sen": 0.11885,
-        "cloud_top": 0.1522,
-        "cloud_bottom": 0.1245,
-        "senkou_span_a": 0.1245,
-        "senkou_span_b": 0.1522
+        "signals": [],
+        "trend": "盤整區間",
+        "recommendation": "觀望",
+        "price": 0.1288,
+        "tenkan_sen": 0.1243,
+        "kijun_sen": 0.1196,
+        "cloud_top": 0.15189999999999998,
+        "cloud_bottom": 0.12455,
+        "senkou_span_a": 0.12455,
+        "senkou_span_b": 0.15189999999999998
       },
-      "combined_recommendation": "強力做空",
-      "combined_explanation": "日線與4H共振空頭，高勝率機會",
-      "ai_advice": "根據一目均衡表數據，建議：\n\n1. **操作建議**：做空\n2. **進場價位**：0.1200 ~ 0.1250\n3. **停損位置**：0.1300\n4. **目標價位**：0.1000\n5. **風險提醒**：注意雲層範圍（0.2736 ~ 0.2915）和基準線（0.1669）可能的反彈阻力。",
+      "combined_recommendation": "偏空操作",
+      "combined_explanation": "日線空頭，等待4H確認進場點",
+      "ai_advice": "根據一目均衡表數據，提供以下建議：\n\n1. **操作建議**：做空\n2. **進場價位**：0.1250 ~ 0.1300\n3. **停損位置**：0.1350\n4. **目標價位**：0.1150\n5. **風險提醒**：注意趨勢不明確和雲層範圍的影響，盤整區間可能出現反彈。",
       "ai_provider": "GROQ",
       "ai_model": "llama-3.3-70b-versatile"
     },
@@ -747,26 +755,26 @@
       "symbol": "ARB-USDT",
       "source": "Crypto",
       "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:ARBUSDT",
-      "timestamp": "2026-03-02T21:01:47.044871+08:00",
+      "timestamp": "2026-03-03T00:51:43.472736+08:00",
       "has_signal": true,
       "daily": {
         "signals": [
           "三役逆轉"
         ],
-        "trend": "強勢下降趨勢",
+        "trend": "趨勢不明確",
         "recommendation": "做空",
-        "price": 0.10021,
+        "price": 0.10552,
         "tenkan_sen": 0.100705,
-        "kijun_sen": 0.11085,
-        "cloud_top": 0.1759,
-        "cloud_bottom": 0.16185,
-        "senkou_span_a": 0.16185,
-        "senkou_span_b": 0.1759
+        "kijun_sen": 0.107,
+        "cloud_top": 0.17065000000000002,
+        "cloud_bottom": 0.15660000000000002,
+        "senkou_span_a": 0.15660000000000002,
+        "senkou_span_b": 0.17065000000000002
       },
       "h4": null,
       "combined_recommendation": "做空",
       "combined_explanation": "僅日線資料可用",
-      "ai_advice": "根據一目均衡表數據，提供以下建議：\n\n1. **操作建議**：做空\n2. **進場價位**：0.1002至0.1007之間\n3. **停損位置**：0.1109（基準線）\n4. **目標價位**：0.0900（下一個支撐區域）\n5. **風險提醒**：雲層範圍（0.1618 ~ 0.1759）可能形成強烈阻力，注意價格反彈風險。",
+      "ai_advice": "根據一目均衡表數據，提供以下建議：\n\n1. **操作建議**：做空\n2. **進場價位**：0.1055 ~ 0.1070\n3. **停損位置**：0.1100\n4. **目標價位**：0.0950\n5. **風險提醒**：雲層範圍（0.1566 ~ 0.1707）仍然較遠，需注意趨勢逆轉風險。",
       "ai_provider": "GROQ",
       "ai_model": "llama-3.3-70b-versatile"
     },
@@ -774,15 +782,16 @@
       "symbol": "XAUT-USDT",
       "source": "Crypto",
       "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:XAUTUSDT",
-      "timestamp": "2026-03-02T21:01:47.276848+08:00",
+      "timestamp": "2026-03-03T00:51:43.609371+08:00",
       "has_signal": true,
       "daily": {
         "signals": [
-          "三役好轉"
+          "三役好轉",
+          "轉換線支撐失守"
         ],
-        "trend": "強勢上升趨勢",
-        "recommendation": "做多",
-        "price": 5368.5,
+        "trend": "趨勢不明確",
+        "recommendation": "觀望",
+        "price": 5263.2,
         "tenkan_sen": 5273.65,
         "kijun_sen": 5032.55,
         "cloud_top": 5016.799999999999,
@@ -791,9 +800,9 @@
         "senkou_span_b": 4943.049999999999
       },
       "h4": null,
-      "combined_recommendation": "做多",
+      "combined_recommendation": "觀望",
       "combined_explanation": "僅日線資料可用",
-      "ai_advice": "根據一目均衡表數據，提供以下交易建議：\n\n1. **操作建議**：做多\n2. **進場價位**：5260-5300區間\n3. **停損位置**：4940（雲層下緣）\n4. **目標價位**：5500-5600區間\n5. **風險提醒**：注意雲層突破風險，若價格跌破4940，應立即停損。",
+      "ai_advice": "根據一目均衡表數據，建議觀望。\n- **操作建議**：觀望\n- **進場價位**：無\n- **停損位置**：無\n- **目標價位**：無\n- **風險提醒**：趨勢不明確，轉換線支撐失守，建議等待明確的趨勢信號後再進行交易。",
       "ai_provider": "GROQ",
       "ai_model": "llama-3.3-70b-versatile"
     },
@@ -801,7 +810,7 @@
       "symbol": "PAXG-USDT",
       "source": "Crypto",
       "chart_url": "https://www.tradingview.com/chart/?symbol=OKX:PAXGUSDT",
-      "timestamp": "2026-03-02T21:01:47.327934+08:00",
+      "timestamp": "2026-03-03T00:51:43.714598+08:00",
       "has_signal": false,
       "daily": null,
       "h4": null,
@@ -815,7 +824,7 @@
       "symbol": "EUR/USD",
       "source": "Forex",
       "chart_url": "https://www.tradingview.com/chart/?symbol=FX:EURUSD",
-      "timestamp": "2026-03-02T21:01:48.635328+08:00",
+      "timestamp": "2026-03-03T00:51:45.025801+08:00",
       "has_signal": true,
       "daily": {
         "signals": [
@@ -824,9 +833,9 @@
         ],
         "trend": "趨勢不明確",
         "recommendation": "做空",
-        "price": 1.17056,
-        "tenkan_sen": 1.176835,
-        "kijun_sen": 1.1813150000000001,
+        "price": 1.16877,
+        "tenkan_sen": 1.1755300000000002,
+        "kijun_sen": 1.18001,
         "cloud_top": 1.1868100000000001,
         "cloud_bottom": 1.18155,
         "senkou_span_a": 1.1868100000000001,
@@ -838,9 +847,9 @@
         ],
         "trend": "趨勢不明確",
         "recommendation": "做空",
-        "price": 1.17056,
-        "tenkan_sen": 1.175845,
-        "kijun_sen": 1.176275,
+        "price": 1.16877,
+        "tenkan_sen": 1.17454,
+        "kijun_sen": 1.17497,
         "cloud_top": 1.1801149999999998,
         "cloud_bottom": 1.18004,
         "senkou_span_a": 1.1801149999999998,
@@ -848,7 +857,7 @@
       },
       "combined_recommendation": "強力做空",
       "combined_explanation": "日線與4H共振空頭，高勝率機會",
-      "ai_advice": "根據一目均衡表數據，提供以下建議：\n\n1. **操作建議**：做空\n2. **進場價位**：1.1700-1.1720\n3. **停損位置**：1.1813（基準線）\n4. **目標價位**：1.1600\n5. **風險提醒**：注意雲層範圍（1.1816 ~ 1.1868）可能的反彈風險。",
+      "ai_advice": "根據一目均衡表數據，提供以下建議：\n1. **操作建議**：做空\n2. **進場價位**：1.1700 ~ 1.1720\n3. **停損位置**：1.1800\n4. **目標價位**：1.1600\n5. **風險提醒**：注意雲層範圍（1.1816 ~ 1.1868）和轉換線（1.1755）的阻力。",
       "ai_provider": "GROQ",
       "ai_model": "llama-3.3-70b-versatile"
     },
@@ -856,7 +865,7 @@
       "symbol": "GBP/USD",
       "source": "Forex",
       "chart_url": "https://www.tradingview.com/chart/?symbol=FX:GBPUSD",
-      "timestamp": "2026-03-02T21:01:49.905563+08:00",
+      "timestamp": "2026-03-03T00:51:46.318990+08:00",
       "has_signal": true,
       "daily": {
         "signals": [
@@ -865,7 +874,7 @@
         ],
         "trend": "趨勢不明確",
         "recommendation": "做空",
-        "price": 1.33967,
+        "price": 1.33868,
         "tenkan_sen": 1.3445,
         "kijun_sen": 1.3514400000000002,
         "cloud_top": 1.3669099999999998,
@@ -875,22 +884,21 @@
       },
       "h4": {
         "signals": [
-          "三役逆轉",
-          "轉換線阻力回落"
+          "三役逆轉"
         ],
         "trend": "趨勢不明確",
         "recommendation": "做空",
-        "price": 1.33967,
-        "tenkan_sen": 1.340255,
+        "price": 1.33868,
+        "tenkan_sen": 1.34021,
         "kijun_sen": 1.343595,
-        "cloud_top": 1.3525225,
+        "cloud_top": 1.3526175,
         "cloud_bottom": 1.350935,
-        "senkou_span_a": 1.3525225,
+        "senkou_span_a": 1.3526175,
         "senkou_span_b": 1.350935
       },
       "combined_recommendation": "強力做空",
       "combined_explanation": "日線與4H共振空頭，高勝率機會",
-      "ai_advice": "根據一目均衡表數據，提供以下建議：\n\n1. **操作建議**：做空\n2. **進場價位**：1.3397附近\n3. **停損位置**：1.3514（基準線）\n4. **目標價位**：1.3200\n5. **風險提醒**：注意雲層範圍（1.3587 ~ 1.3669）的阻力和趨勢不明確的風險。",
+      "ai_advice": "根據一目均衡表數據，提供以下建議：\n\n1. **操作建議**：做空\n2. **進場價位**：1.3400-1.3420\n3. **停損位置**：1.3460\n4. **目標價位**：1.3300\n5. **風險提醒**：注意雲層範圍和基準線的阻力。",
       "ai_provider": "GROQ",
       "ai_model": "llama-3.3-70b-versatile"
     },
@@ -898,7 +906,7 @@
       "symbol": "USD/JPY",
       "source": "Forex",
       "chart_url": "https://www.tradingview.com/chart/?symbol=FX:USDJPY",
-      "timestamp": "2026-03-02T21:01:51.193642+08:00",
+      "timestamp": "2026-03-03T00:51:47.601057+08:00",
       "has_signal": true,
       "daily": {
         "signals": [
@@ -907,31 +915,29 @@
         ],
         "trend": "趨勢不明確",
         "recommendation": "做多",
-        "price": 157.3732,
-        "tenkan_sen": 155.700295,
-        "kijun_sen": 154.84606000000002,
+        "price": 157.45541,
+        "tenkan_sen": 155.881595,
+        "kijun_sen": 155.02736,
         "cloud_top": 155.7509,
         "cloud_bottom": 155.1112875,
         "senkou_span_a": 155.1112875,
         "senkou_span_b": 155.7509
       },
       "h4": {
-        "signals": [
-          "唐奇安通道突破"
-        ],
+        "signals": [],
         "trend": "趨勢不明確",
-        "recommendation": "做多",
-        "price": 157.3732,
-        "tenkan_sen": 156.375005,
-        "kijun_sen": 156.375005,
+        "recommendation": "觀望",
+        "price": 157.45541,
+        "tenkan_sen": 156.556305,
+        "kijun_sen": 156.556305,
         "cloud_top": 155.7619825,
         "cloud_bottom": 154.95351,
         "senkou_span_a": 155.7619825,
         "senkou_span_b": 154.95351
       },
-      "combined_recommendation": "強力做多",
-      "combined_explanation": "日線與4H共振多頭，高勝率機會",
-      "ai_advice": "根據一目均衡表數據，**操作建議**為做多。\n**進場價位**建議在157.3732附近。\n**停損位置**設於155.7509以下，以雲層下緣為基準。\n**目標價位**可考慮160.0000附近的阻力位。\n**風險提醒**：需注意趨勢強度不明確，應密切監控市場變化。",
+      "combined_recommendation": "偏多操作",
+      "combined_explanation": "日線多頭，等待4H確認進場點",
+      "ai_advice": "根據一目均衡表數據，建議進行**做多**操作。\n- **進場價位**：157.4 ~ 157.6\n- **停損位置**：155.9\n- **目標價位**：159.5\n- **風險提醒**：需關注趨勢不明確的風險，若價格跌破雲層下緣，應考慮停損。",
       "ai_provider": "GROQ",
       "ai_model": "llama-3.3-70b-versatile"
     },
@@ -939,7 +945,7 @@
       "symbol": "AUD/USD",
       "source": "Forex",
       "chart_url": "https://www.tradingview.com/chart/?symbol=FX:AUDUSD",
-      "timestamp": "2026-03-02T21:01:52.457900+08:00",
+      "timestamp": "2026-03-03T00:51:48.876822+08:00",
       "has_signal": true,
       "daily": {
         "signals": [
@@ -948,7 +954,7 @@
         ],
         "trend": "趨勢不明確",
         "recommendation": "觀望",
-        "price": 0.70599,
+        "price": 0.70674,
         "tenkan_sen": 0.70819,
         "kijun_sen": 0.70224,
         "cloud_top": 0.6938949999999999,
@@ -958,22 +964,21 @@
       },
       "h4": {
         "signals": [
-          "三役逆轉",
-          "跌破雲層"
+          "三役逆轉"
         ],
         "trend": "趨勢不明確",
         "recommendation": "做空",
-        "price": 0.70599,
+        "price": 0.70674,
         "tenkan_sen": 0.7075199999999999,
         "kijun_sen": 0.708245,
-        "cloud_top": 0.708925,
+        "cloud_top": 0.7089325,
         "cloud_bottom": 0.707615,
-        "senkou_span_a": 0.708925,
+        "senkou_span_a": 0.7089325,
         "senkou_span_b": 0.707615
       },
       "combined_recommendation": "短空試單",
       "combined_explanation": "無大趨勢，僅短線空頭機會",
-      "ai_advice": "根據一目均衡表數據，提供如下建議：\n\n1. **操作建議**：做空\n2. **進場價位**：0.7060 ~ 0.7082\n3. **停損位置**：0.7100\n4. **目標價位**：0.6939 (雲層下緣)\n5. **風險提醒**：注意轉換線和基準線的支撐，避免趨勢逆轉。",
+      "ai_advice": "根據一目均衡表數據，提供以下建議：\n\n1. **操作建議**：做空\n2. **進場價位**：0.7075 附近\n3. **停損位置**：0.7100\n4. **目標價位**：0.6939（雲層下緣）\n5. **風險提醒**：注意轉換線和基準線的支撐，及雲層的影響。",
       "ai_provider": "GROQ",
       "ai_model": "llama-3.3-70b-versatile"
     },
@@ -981,7 +986,7 @@
       "symbol": "USD/CHF",
       "source": "Forex",
       "chart_url": "https://www.tradingview.com/chart/?symbol=FX:USDCHF",
-      "timestamp": "2026-03-02T21:02:53.772621+08:00",
+      "timestamp": "2026-03-03T00:52:50.234976+08:00",
       "has_signal": true,
       "daily": {
         "signals": [
@@ -991,9 +996,9 @@
         ],
         "trend": "盤整區間",
         "recommendation": "做多",
-        "price": 0.7775,
-        "tenkan_sen": 0.772245,
-        "kijun_sen": 0.770935,
+        "price": 0.7801,
+        "tenkan_sen": 0.773785,
+        "kijun_sen": 0.77224,
         "cloud_top": 0.782385,
         "cloud_bottom": 0.7767774999999999,
         "senkou_span_a": 0.7767774999999999,
@@ -1003,9 +1008,9 @@
         "signals": [],
         "trend": "趨勢不明確",
         "recommendation": "觀望",
-        "price": 0.7775,
-        "tenkan_sen": 0.772245,
-        "kijun_sen": 0.772245,
+        "price": 0.7801,
+        "tenkan_sen": 0.773785,
+        "kijun_sen": 0.773785,
         "cloud_top": 0.77367,
         "cloud_bottom": 0.7736149999999999,
         "senkou_span_a": 0.77367,
@@ -1013,7 +1018,7 @@
       },
       "combined_recommendation": "偏多操作",
       "combined_explanation": "日線多頭，等待4H確認進場點",
-      "ai_advice": "根據一目均衡表數據，提供以下建議：\n\n1. **操作建議**：做多\n2. **進場價位**：0.7750 ~ 0.7800\n3. **停損位置**：0.7700\n4. **目標價位**：0.7850\n5. **風險提醒**：注意雲層範圍（0.7768 ~ 0.7824）和轉換線（0.7722）的阻力。",
+      "ai_advice": "根據數據，建議做多。\n- **操作建議**：做多\n- **進場價位**：0.7780 ~ 0.7820\n- **停損位置**：0.7730\n- **目標價位**：0.7850\n- **風險提醒**：注意雲層範圍的阻力和趨勢不明確的風險。",
       "ai_provider": "GROQ",
       "ai_model": "llama-3.3-70b-versatile"
     },
@@ -1021,15 +1026,16 @@
       "symbol": "USD/CAD",
       "source": "Forex",
       "chart_url": "https://www.tradingview.com/chart/?symbol=FX:USDCAD",
-      "timestamp": "2026-03-02T21:02:55.054873+08:00",
+      "timestamp": "2026-03-03T00:52:51.515372+08:00",
       "has_signal": true,
       "daily": {
         "signals": [
-          "遲行線逆轉"
+          "三役好轉",
+          "突破雲層"
         ],
-        "trend": "盤整區間",
-        "recommendation": "做空",
-        "price": 1.36648,
+        "trend": "趨勢不明確",
+        "recommendation": "做多",
+        "price": 1.37079,
         "tenkan_sen": 1.367605,
         "kijun_sen": 1.361555,
         "cloud_top": 1.370595,
@@ -1038,20 +1044,23 @@
         "senkou_span_b": 1.370595
       },
       "h4": {
-        "signals": [],
+        "signals": [
+          "黃金交叉",
+          "三役好轉"
+        ],
         "trend": "趨勢不明確",
-        "recommendation": "觀望",
-        "price": 1.36648,
-        "tenkan_sen": 1.36595,
-        "kijun_sen": 1.3668749999999998,
+        "recommendation": "做多",
+        "price": 1.37079,
+        "tenkan_sen": 1.3677350000000001,
+        "kijun_sen": 1.36719,
         "cloud_top": 1.3685425,
         "cloud_bottom": 1.3679299999999999,
         "senkou_span_a": 1.3685425,
         "senkou_span_b": 1.3679299999999999
       },
-      "combined_recommendation": "偏空操作",
-      "combined_explanation": "日線空頭，等待4H確認進場點",
-      "ai_advice": "根據一目均衡表數據，提供以下建議：\n\n1. **操作建議**：做空\n2. **進場價位**：1.3676 ~ 1.3706\n3. **停損位置**：1.3710\n4. **目標價位**：1.3616\n5. **風險提醒**：注意雲層範圍和基準線的支撐作用，若價格突破雲層上限，則停止做空。",
+      "combined_recommendation": "強力做多",
+      "combined_explanation": "日線與4H共振多頭，高勝率機會",
+      "ai_advice": "根據一目均衡表數據，提供以下建議：\n\n1. **操作建議**：做多\n2. **進場價位**：1.3680 ~ 1.3710\n3. **停損位置**：1.3650\n4. **目標價位**：1.3800\n5. **風險提醒**：注意雲層下緣（1.3658）支撐強度，若跌破雲層下緣，趨勢可能逆轉。",
       "ai_provider": "GROQ",
       "ai_model": "llama-3.3-70b-versatile"
     },
@@ -1059,17 +1068,18 @@
       "symbol": "NZD/USD",
       "source": "Forex",
       "chart_url": "https://www.tradingview.com/chart/?symbol=FX:NZDUSD",
-      "timestamp": "2026-03-02T21:02:56.322137+08:00",
+      "timestamp": "2026-03-03T00:52:52.799543+08:00",
       "has_signal": true,
       "daily": {
         "signals": [
+          "唐奇安通道跌破",
           "雲層支撐失守"
         ],
         "trend": "盤整區間",
         "recommendation": "做空",
-        "price": 0.59406,
-        "tenkan_sen": 0.59712,
-        "kijun_sen": 0.6002700000000001,
+        "price": 0.5927,
+        "tenkan_sen": 0.5965149999999999,
+        "kijun_sen": 0.59968,
         "cloud_top": 0.596525,
         "cloud_bottom": 0.590275,
         "senkou_span_a": 0.596525,
@@ -1081,9 +1091,9 @@
         ],
         "trend": "強勢下降趨勢",
         "recommendation": "做空",
-        "price": 0.59406,
-        "tenkan_sen": 0.5963499999999999,
-        "kijun_sen": 0.596685,
+        "price": 0.5927,
+        "tenkan_sen": 0.595745,
+        "kijun_sen": 0.5960799999999999,
         "cloud_top": 0.5995550000000001,
         "cloud_bottom": 0.5982274999999999,
         "senkou_span_a": 0.5982274999999999,
@@ -1091,7 +1101,7 @@
       },
       "combined_recommendation": "強力做空",
       "combined_explanation": "日線與4H共振空頭，高勝率機會",
-      "ai_advice": "根據一目均衡表數據，提供如下建議：\n\n1. **操作建議**：做空\n2. **進場價位**：0.5920 ~ 0.5940\n3. **停損位置**：0.6000\n4. **目標價位**：0.5850\n5. **風險提醒**：雲層範圍下方支撐失守，需注意趨勢逆轉風險。",
+      "ai_advice": "根據一目均衡表數據，提供以下建議：\n\n1. **操作建議**：強力做空\n2. **進場價位**：0.5927 附近\n3. **停損位置**：0.5997（基準線）\n4. **目標價位**：0.5850\n5. **風險提醒**：注意雲層範圍的支撐和轉換線的阻力，若價格突破雲層上方，則停止做空。",
       "ai_provider": "GROQ",
       "ai_model": "llama-3.3-70b-versatile"
     },
@@ -1099,7 +1109,7 @@
       "symbol": "XAU/USD",
       "source": "Forex",
       "chart_url": "https://www.tradingview.com/chart/?symbol=FX:XAUUSD",
-      "timestamp": "2026-03-02T21:02:57.602154+08:00",
+      "timestamp": "2026-03-03T00:52:54.078613+08:00",
       "has_signal": true,
       "daily": {
         "signals": [
@@ -1108,7 +1118,7 @@
         ],
         "trend": "強勢上升趨勢",
         "recommendation": "做多",
-        "price": 5393.53911,
+        "price": 5299.52155,
         "tenkan_sen": 5257.976745,
         "kijun_sen": 5036.340029999999,
         "cloud_top": 5004.03759,
@@ -1120,19 +1130,19 @@
         "signals": [
           "三役好轉"
         ],
-        "trend": "強勢上升趨勢",
+        "trend": "趨勢不明確",
         "recommendation": "做多",
-        "price": 5393.53911,
-        "tenkan_sen": 5347.63891,
+        "price": 5299.52155,
+        "tenkan_sen": 5342.633225,
         "kijun_sen": 5272.54588,
-        "cloud_top": 5172.5024625,
-        "cloud_bottom": 5051.941580000001,
-        "senkou_span_a": 5172.5024625,
-        "senkou_span_b": 5051.941580000001
+        "cloud_top": 5176.5562825,
+        "cloud_bottom": 5053.67294,
+        "senkou_span_a": 5176.5562825,
+        "senkou_span_b": 5053.67294
       },
       "combined_recommendation": "強力做多",
       "combined_explanation": "日線與4H共振多頭，高勝率機會",
-      "ai_advice": "根據一目均衡表數據，提供以下建議：\n\n1. **操作建議**：做多\n2. **進場價位**：5350-5400區間\n3. **停損位置**：設於基準線（5036.3400）以下\n4. **目標價位**：5500-5600區間\n5. **風險提醒**：注意雲層範圍（4932.9624 ~ 5004.0376）下方的支撐失守風險，及趨勢逆轉的可能性。",
+      "ai_advice": "根據提供的一目均衡表數據，以下是交易建議：\n\n1. **操作建議**：做多\n2. **進場價位**：5250-5300\n3. **停損位置**：雲層下緣4932.96\n4. **目標價位**：5400-5500\n5. **風險提醒**：注意趨勢逆轉和雲層突破失敗的風險。",
       "ai_provider": "GROQ",
       "ai_model": "llama-3.3-70b-versatile"
     }
